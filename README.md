@@ -2,6 +2,9 @@
 
 Welcome to the project repository for the design and development of a mobile application to manage the installation interventions of auto boxes. This project includes three main components:
 
+!["login"](./pic.png)
+
+
 1. **Mobile Application**: The mobile app for field technicians to manage installation tasks.
 2. **Dashboard Admin Web App**: The web application for administrators to oversee operations.
 3. **Backend API App**: The backend services providing APIs for the mobile and web applications.
